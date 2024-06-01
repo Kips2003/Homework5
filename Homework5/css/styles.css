@@ -1,0 +1,195 @@
+.header-div{
+    width: 1336px;
+    margin: 0 auto;   
+    text-align: center;
+}
+.header-title{
+    margin: 80px 0 16px 0;
+}
+.header-about{
+    width: 760px;
+    margin: 0 auto 48px auto;
+
+}
+.about-text{
+    
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;
+
+    color: #5F6980;
+}
+.our-team{
+
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: center;
+}
+.meet-the-clonify{
+    font-family: 'Inter';
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: center;
+
+}
+.images{
+    display: inline-block;
+    width: 310px;
+    height: 430px;
+
+    border-style: double;
+    border-width: 1px;
+    border-color: #EAECF0;
+}
+
+.name{
+    margin-bottom: 4px;
+
+   
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+
+    color: #282828;
+}
+.profession{
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+
+    color: #3E3E59;
+}
+.about{
+    margin-bottom: 24px;
+
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+
+    color: #5F6980;
+}
+.first-line{
+    width: 1336px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 48px;
+}
+.grey-section-text{
+    padding-left: 16px;
+}
+.name-profession{
+    margin-bottom: 8px;
+}
+.icons{
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background-color: #F2F4F7;
+    border-radius: 18px;
+
+    display: inline-block;
+    margin-right: 16px;
+
+}
+.icon{
+    width: 18px;
+    height: 18px;
+    margin: 9px;
+    display: inline-block;
+}
+.second-line{
+    width: 1336px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: #53535354;
+    padding: 108px 0;
+}
+.info-about-web{
+    width: 1306px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 312.05px;
+    display: inline-block;
+}
+.logo-text{
+    margin: 32px 0 28px 0;
+    
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: left;
+
+    color: #535353;
+}
+.logos{
+    width: 104px;
+    display: flex;
+    justify-content: space-between;
+}
+.website-links{
+    display: inline-block;
+    vertical-align: top;
+}
+.navigation{
+    display: block;
+    margin-bottom: 15px;
+
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: left;
+
+    color: #535353;
+}
+.website{
+    margin-bottom: 71px;
+
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    text-align: left;
+
+    color: #1E1E1E;
+}
+.services{
+    display: inline-block;
+    vertical-align: top;
+}
+.languages{
+    display: inline-block;
+    vertical-align: top;
+}
+.button{
+    border-width: none;
+    background-color: #054A68;
+    color: white;
+    width: 80px;
+    height: 45px;
+
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+}
